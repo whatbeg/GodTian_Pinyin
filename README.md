@@ -10,6 +10,6 @@ $ python gui.py
 or open it with IDE and run gui.py
 
 
-## Article describing it
+## Article describing it
 
-[如何从头开始实现一个中文拼音输入法？](http://whatbeg.com/2016/11/16/godtianpinyin.html)
+[《如何从头开始实现一个中文拼音输入法？》](http://whatbeg.com/2016/11/16/godtianpinyin.html)
